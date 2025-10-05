@@ -1,0 +1,2 @@
+"Mr Example","${recipient.name}"
+"1234","${recipient.accountIdentifier}"

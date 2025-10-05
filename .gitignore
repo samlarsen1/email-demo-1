@@ -1,3 +1,14 @@
+
+# eml files (which contain PII)
+*.eml
+
+#.csv files (used for locally defining PII to replace)
+*.csv
+
+# Local testing files
+.example_replacements.txt
+
+
 # Local .terraform directories
 .terraform/
 
